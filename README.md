@@ -1,1 +1,1 @@
-<img src ="https://github.com/JoanaRomay/proyecto-MiPrimeraPaginaWeb/blob/master/caratula>
+<img src ="https://github.com/JoanaRomay/proyecto-MiPrimeraPaginaWeb/blob/master/caratula">
